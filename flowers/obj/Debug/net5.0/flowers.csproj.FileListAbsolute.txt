@@ -1,0 +1,16 @@
+C:\Users\AFdev\workspace\flowers\flowers\bin\Debug\net5.0\flowers.exe
+C:\Users\AFdev\workspace\flowers\flowers\bin\Debug\net5.0\flowers.deps.json
+C:\Users\AFdev\workspace\flowers\flowers\bin\Debug\net5.0\flowers.runtimeconfig.json
+C:\Users\AFdev\workspace\flowers\flowers\bin\Debug\net5.0\flowers.runtimeconfig.dev.json
+C:\Users\AFdev\workspace\flowers\flowers\bin\Debug\net5.0\flowers.dll
+C:\Users\AFdev\workspace\flowers\flowers\bin\Debug\net5.0\ref\flowers.dll
+C:\Users\AFdev\workspace\flowers\flowers\bin\Debug\net5.0\flowers.pdb
+C:\Users\AFdev\workspace\flowers\flowers\obj\Debug\net5.0\flowers.csproj.AssemblyReference.cache
+C:\Users\AFdev\workspace\flowers\flowers\obj\Debug\net5.0\flowers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AFdev\workspace\flowers\flowers\obj\Debug\net5.0\flowers.AssemblyInfoInputs.cache
+C:\Users\AFdev\workspace\flowers\flowers\obj\Debug\net5.0\flowers.AssemblyInfo.cs
+C:\Users\AFdev\workspace\flowers\flowers\obj\Debug\net5.0\flowers.csproj.CoreCompileInputs.cache
+C:\Users\AFdev\workspace\flowers\flowers\obj\Debug\net5.0\flowers.dll
+C:\Users\AFdev\workspace\flowers\flowers\obj\Debug\net5.0\ref\flowers.dll
+C:\Users\AFdev\workspace\flowers\flowers\obj\Debug\net5.0\flowers.pdb
+C:\Users\AFdev\workspace\flowers\flowers\obj\Debug\net5.0\flowers.genruntimeconfig.cache
